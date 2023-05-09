@@ -1,1 +1,25 @@
 Hello Chapter 2
+
+git init -> creates a new Git repository. Executing this command will create a new .git subdirectory in your current working
+directory. This will also create a new main branch.
+
+dir /a:h -> show all hidden files
+
+C:/Users/raksh/OneDrive/Desktop/GitTutorial/.git -> creates an empty git repo in GitTutorial directory
+
+Staging - In order to start tracking the changes in a file, it has to be added to the
+staging area. It is a intermediate place where you can pick and choose which files
+inside your working directory that you want to commit.
+
+To see what's inside staging area: git status. Untracked file is shown in red.
+
+git status -> shows the files that are not staged yet
+
+git add -> adding files to staging area
+git add . -> everything inside current dir
+
+git status -> now the files will be green(after git add)
+
+git commit -m "Completed chapter1" -> -m flag to add a commit message.
+
+commit cmd helps to track of what changes have been made in each commit.
