@@ -1,1 +1,9 @@
 Hello Chapter 3
+
+after committing chapter 3 -> if changed, git status shows modified
+
+now, git diff -> to see modification.
+
+After this(not added or committed), use git checkout chapter3.txt to roll back to old
+commit.
+
