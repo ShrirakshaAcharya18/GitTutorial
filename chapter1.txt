@@ -1,0 +1,9 @@
+Git - Chapter 1 - 
+
+cd -> Change directory
+dir ->  listing the directories and files within the current directory
+mkdir -> make directory
+type NULL > chapter1.txt - creates an empty file
+
+
+It was the best of times, it was the worst of times.
